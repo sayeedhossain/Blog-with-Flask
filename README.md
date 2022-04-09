@@ -53,9 +53,4 @@ If you have any questions or suggestions, feel free to open an issue or pull req
 </li>
 </ul>
 
-
-For any problem , just feel free to contact with me through my mail . 
-
-<h1>Author : </h1><br>
-<h3>Name : Sayeed Hossain</h3><br>
-<h3>Mail : sayeedhatim@gmail.com</h3>
+Any further query? just feel free to contact at (me@sayeedhossain.com) 
